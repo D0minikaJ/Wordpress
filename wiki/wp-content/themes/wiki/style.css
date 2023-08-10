@@ -1,0 +1,17 @@
+/*
+Theme Name: Wiki
+Text Domain: Wiki
+Version: 1.0
+Description: Wiki
+Tags: wiki
+Author: Dominika
+*/
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.main-content {
+  min-height: calc(100vh - 430px);
+}
